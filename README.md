@@ -14,7 +14,7 @@ See [`docs/`](docs/) for a day-by-day log of what was built and what each functi
 | **Tic-Tac-Toe (CLI)** | Classic Tic-Tac-Toe game played in the terminal. | Functions, lists, loops, conditional logic, basic game state management. | ✅ |
 | **Hangman (CLI)** | Text-based Hangman game with random word selection. | Dictionaries, random module, string manipulation, input validation. | ✅ |
 | **Password Generator** | Generates secure, random passwords with customizable length and complexity. | Random module, string constants, list comprehensions. | ✅ |
-| **Dice Rolling Simulator** | Simulates rolling one or more dice with various face counts. | Random module, user input, statistical simulation. |
+| **Dice Rolling Simulator** | Simulates rolling one or more dice with various face counts. | Random module, user input, statistical simulation. | ✅ |
 | **Tip Calculator** | Calculates tips based on bill amount and service quality. | Floating-point arithmetic, user input, formatting. |
 | **Pomodoro Timer** | Time management tool using the Pomodoro Technique. | Time module, threading, loops, GUI with Tkinter. |
 | **BMI Calculator** | Calculates Body Mass Index and provides health insights. | Mathematical operations, conditional logic, health metrics. |

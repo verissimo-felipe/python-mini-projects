@@ -17,7 +17,7 @@ See [`docs/`](docs/) for a day-by-day log of what was built and what each functi
 | **Dice Rolling Simulator** | Simulates rolling one or more dice with various face counts. | Random module, user input, statistical simulation. | ✅ |
 | **Tip Calculator** | Calculates tips based on bill amount and service quality. | Floating-point arithmetic, user input, formatting. | ✅ |
 | **Pomodoro Timer** | Time management tool using the Pomodoro Technique. | Time module, threading, loops, GUI with Tkinter. | ✅ |
-| **BMI Calculator** | Calculates Body Mass Index and provides health insights. | Mathematical operations, conditional logic, health metrics. |
+| **BMI Calculator** | Calculates Body Mass Index and provides health insights. | Mathematical operations, conditional logic, health metrics. | ✅ |
 | **Rock, Paper, Scissors** | Classic game against the computer. | Random module, conditional logic, user interaction. |
 | **Mad Libs Generator** | Fun word game creating silly stories. | String formatting (f-strings), user input. |
 | **Simple Calculator** | Basic four-function calculator with command-line interface. | Functions, user input, exception handling. |

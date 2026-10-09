@@ -21,7 +21,7 @@ See [`docs/`](docs/) for a day-by-day log of what was built and what each functi
 | **Rock, Paper, Scissors** | Classic game against the computer. | Random module, conditional logic, user interaction. | ✅ |
 | **Mad Libs Generator** | Fun word game creating silly stories. | String formatting (f-strings), user input. | ✅ |
 | **Simple Calculator** | Basic four-function calculator with command-line interface. | Functions, user input, exception handling. | ✅ |
-| **Unit Converter** | Converts between different units (e.g., Celsius/Fahrenheit, meters/feet). | Math operations, unit conversion formulas. |
+| **Unit Converter** | Converts between different units (e.g., Celsius/Fahrenheit, meters/feet). | Math operations, unit conversion formulas. | ✅ |
 | **Markdown Previewer** | Preview Markdown files rendered as HTML. | Markdown library, file I/O, HTML generation. |
 | **Contact Book (CLI)** | Simple contact management system. | Dictionaries, lists, file I/O (JSON). |
 | **Number Guessing Game** | Guess a random number within a range. | Random module, loops, comparison operators. | ✅ |

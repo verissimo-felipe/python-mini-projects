@@ -19,7 +19,7 @@ See [`docs/`](docs/) for a day-by-day log of what was built and what each functi
 | **Pomodoro Timer** | Time management tool using the Pomodoro Technique. | Time module, threading, loops, GUI with Tkinter. | ✅ |
 | **BMI Calculator** | Calculates Body Mass Index and provides health insights. | Mathematical operations, conditional logic, health metrics. | ✅ |
 | **Rock, Paper, Scissors** | Classic game against the computer. | Random module, conditional logic, user interaction. | ✅ |
-| **Mad Libs Generator** | Fun word game creating silly stories. | String formatting (f-strings), user input. |
+| **Mad Libs Generator** | Fun word game creating silly stories. | String formatting (f-strings), user input. | ✅ |
 | **Simple Calculator** | Basic four-function calculator with command-line interface. | Functions, user input, exception handling. |
 | **Unit Converter** | Converts between different units (e.g., Celsius/Fahrenheit, meters/feet). | Math operations, unit conversion formulas. |
 | **Markdown Previewer** | Preview Markdown files rendered as HTML. | Markdown library, file I/O, HTML generation. |

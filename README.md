@@ -26,6 +26,16 @@ See [`docs/`](docs/) for a day-by-day log of what was built and what each functi
 | **Contact Book (CLI)** | Simple contact management system. | Dictionaries, lists, file I/O (JSON). | ✅ |
 | **Number Guessing Game** | Guess a random number within a range. | Random module, loops, comparison operators. | ✅ |
 | **Color Palette Generator** | Generates random color palettes with hex codes. | Random module, hex formatting, color theory basics. | ✅ |
+| **To-Do List (CLI)** | Command-line task manager with due dates and completion status. | Lists, dictionaries, file I/O (JSON), datetime module. |
+| **Expense Tracker** | Tracks expenses by category and summarizes monthly spending. | File I/O (CSV), dictionaries, basic statistics. |
+| **Caesar Cipher Tool** | Encrypts and decrypts text using a classic Caesar cipher shift. | String manipulation, modular arithmetic. |
+| **Weather CLI** | Fetches and displays the current weather for a city from a public API. | Requests library, JSON parsing, API consumption. |
+| **Currency Converter** | Converts between currencies using live exchange rates from an API. | Requests library, JSON parsing, floating-point arithmetic. |
+| **Typing Speed Test** | Measures typing speed (WPM) and accuracy against a sample text. | Time module, string comparison, user input. |
+| **Quiz Game with Timer** | Multiple-choice quiz with a countdown timer per question. | Threading, dictionaries, scoring logic. |
+| **Regex Validator** | Validates emails, phone numbers and other patterns using regular expressions. | Regex (re module), input validation. |
+| **File Organizer** | Sorts files in a folder into subfolders by extension. | os/shutil modules, file system operations. |
+| **Sorting Algorithm Visualizer** | Animates bubble sort, selection sort and quicksort step by step in the terminal. | Algorithms, recursion, ANSI colors. |
 
 ## 🚀 Getting Started
 

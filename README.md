@@ -25,7 +25,7 @@ See [`docs/`](docs/) for a day-by-day log of what was built and what each functi
 | **Markdown Previewer** | Preview Markdown files rendered as HTML. | Markdown library, file I/O, HTML generation. | ✅ |
 | **Contact Book (CLI)** | Simple contact management system. | Dictionaries, lists, file I/O (JSON). | ✅ |
 | **Number Guessing Game** | Guess a random number within a range. | Random module, loops, comparison operators. | ✅ |
-| **Color Palette Generator** | Generates random color palettes with hex codes. | Random module, hex formatting, color theory basics. |
+| **Color Palette Generator** | Generates random color palettes with hex codes. | Random module, hex formatting, color theory basics. | ✅ |
 
 ## 🚀 Getting Started
 

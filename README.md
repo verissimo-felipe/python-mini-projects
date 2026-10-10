@@ -22,7 +22,7 @@ See [`docs/`](docs/) for a day-by-day log of what was built and what each functi
 | **Mad Libs Generator** | Fun word game creating silly stories. | String formatting (f-strings), user input. | ✅ |
 | **Simple Calculator** | Basic four-function calculator with command-line interface. | Functions, user input, exception handling. | ✅ |
 | **Unit Converter** | Converts between different units (e.g., Celsius/Fahrenheit, meters/feet). | Math operations, unit conversion formulas. | ✅ |
-| **Markdown Previewer** | Preview Markdown files rendered as HTML. | Markdown library, file I/O, HTML generation. |
+| **Markdown Previewer** | Preview Markdown files rendered as HTML. | Markdown library, file I/O, HTML generation. | ✅ |
 | **Contact Book (CLI)** | Simple contact management system. | Dictionaries, lists, file I/O (JSON). |
 | **Number Guessing Game** | Guess a random number within a range. | Random module, loops, comparison operators. | ✅ |
 | **Color Palette Generator** | Generates random color palettes with hex codes. | Random module, hex formatting, color theory basics. |
@@ -51,6 +51,13 @@ python tic_tac_toe.py
 # Example: Run the Password Generator
 cd password-generator
 python password_generator.py
+```
+
+A couple of projects (e.g. Markdown Previewer) need an extra third-party library. If a project folder has its own `requirements.txt`, install it first:
+```bash
+cd markdown-previewer
+pip install -r requirements.txt
+python markdown_previewer.py
 ```
 
 ## 🎓 How to Use This Repository for Learning

@@ -3,3 +3,4 @@ venv314/
 .env
 .venv/
 __pycache__/
+contact-book/contacts.json

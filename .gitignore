@@ -4,3 +4,4 @@ venv314/
 .venv/
 __pycache__/
 contact-book/contacts.json
+todo-list/tasks.json

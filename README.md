@@ -26,7 +26,7 @@ See [`docs/`](docs/) for a day-by-day log of what was built and what each functi
 | **Contact Book (CLI)** | Simple contact management system. | Dictionaries, lists, file I/O (JSON). | ✅ |
 | **Number Guessing Game** | Guess a random number within a range. | Random module, loops, comparison operators. | ✅ |
 | **Color Palette Generator** | Generates random color palettes with hex codes. | Random module, hex formatting, color theory basics. | ✅ |
-| **To-Do List (CLI)** | Command-line task manager with due dates and completion status. | Lists, dictionaries, file I/O (JSON), datetime module. |
+| **To-Do List (CLI)** | Command-line task manager with due dates and completion status. | Lists, dictionaries, file I/O (JSON), datetime module. | ✅ |
 | **Expense Tracker** | Tracks expenses by category and summarizes monthly spending. | File I/O (CSV), dictionaries, basic statistics. |
 | **Caesar Cipher Tool** | Encrypts and decrypts text using a classic Caesar cipher shift. | String manipulation, modular arithmetic. |
 | **Weather CLI** | Fetches and displays the current weather for a city from a public API. | Requests library, JSON parsing, API consumption. |

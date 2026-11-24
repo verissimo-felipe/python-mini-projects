@@ -5,3 +5,4 @@ venv314/
 __pycache__/
 contact-book/contacts.json
 todo-list/tasks.json
+expense-tracker/expenses.csv
